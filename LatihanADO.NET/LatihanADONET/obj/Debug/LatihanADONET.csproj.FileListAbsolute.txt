@@ -1,0 +1,30 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.GenerateResource.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Form1.resources
+D:\18.11.2314\#7 ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe.config
+D:\18.11.2314\#7 ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe
+D:\18.11.2314\#7 ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.pdb
+D:\18.11.2314\#7 ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csprojAssemblyReference.cache
+D:\18.11.2314\#7 ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Form1.resources
+D:\18.11.2314\#7 ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Properties.Resources.resources
+D:\18.11.2314\#7 ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.GenerateResource.cache
+D:\18.11.2314\#7 ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.CoreCompileInputs.cache
+D:\18.11.2314\#7 ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.exe
+D:\18.11.2314\#7 ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.pdb
+D:\18.11.2314\#7_ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe.config
+D:\18.11.2314\#7_ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe
+D:\18.11.2314\#7_ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.pdb
+D:\18.11.2314\#7_ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csprojAssemblyReference.cache
+D:\18.11.2314\#7_ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Form1.resources
+D:\18.11.2314\#7_ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Properties.Resources.resources
+D:\18.11.2314\#7_ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.GenerateResource.cache
+D:\18.11.2314\#7_ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.CoreCompileInputs.cache
+D:\18.11.2314\#7_ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.exe
+D:\18.11.2314\#7_ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.pdb
